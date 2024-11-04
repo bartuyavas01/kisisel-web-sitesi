@@ -245,7 +245,7 @@ a {
     margin: 20px 0;
     color: var(--white);
     max-width: 315px;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .footer-col form {
@@ -266,7 +266,7 @@ a {
 
 .footer-col input::placeholder {
     color: var(--white);
-    font-size: 11px;
+    font-size: 10px;
     font-weight: bold;
 }
 
@@ -279,7 +279,7 @@ a {
     cursor: pointer;
     transition: 0.2s ease;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .footer-col .icons {
@@ -293,3 +293,9 @@ a {
     color: var(--white);
     font-size: 19px;
 }
+
+.footer-col input,
+.footer-col input::placeholder,
+.footer-col button {
+    font-family: 'Poppins', sans-serif;
+ }
