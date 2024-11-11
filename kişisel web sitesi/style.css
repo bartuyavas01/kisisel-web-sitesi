@@ -176,7 +176,7 @@ a {
 }
 
 .project-item img:hover {
-    transform: scale(1.1);
+    transform: scale(1.08);
 }
 
 .project-item h3 {
